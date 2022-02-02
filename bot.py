@@ -17,12 +17,6 @@ class Group:
 
 api_id = 10956225
 api_hash = '78f50dacad7c81fbe9c7f14baf73f9fc'
-# This is group id
-group_id = "@test0205"
-# This is sleep minut
-# sleep_time = n means send message every
-sleep_time = 20
-sleep_time = sleep_time * 60
 messages = []
 accounts = []
 message_count = 0
